@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+}
+.brand-logo{
+    margin: 5px;
+    padding: 10px;
+    
+}
+.nav-item a{
+    text-align: center;
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav .nav-item{
+    margin: 25px;
+    display: block;
+}
+.navbar-nav :hover{
+    background-color: white;
+}
+.carousel-caption button:hover{
+    background-color: greenyellow;
+}
+.d-flex button:hover{
+    background-color: yellowgreen;
+}
+.para{
+    margin: 10px;
+    padding: 30px;
+}
+.card a:hover{
+    background-color:red;
+}
+.card{
+    background-color: black;
+    color: white;
+}
